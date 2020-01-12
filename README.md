@@ -11,6 +11,6 @@ https://raw.githubusercontent.com/tflander/GTest-Tdd-Roman-Kata/master/.github/w
 
 https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_FILE_PATH>/badge.svg
   
-![](https://github.com/tflander/GTest-Tdd-Roman-Kata/workflows/.github/workflows/CI/badge.svg)
+![](https://github.com/tflander/GTest-Tdd-Roman-Kata/workflows/CI/badge.svg)
 
 
