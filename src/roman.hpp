@@ -7,5 +7,6 @@
 using namespace std;
 
 string toRoman(uint16_t n);
+void initRomanConverter();
 
 #endif
